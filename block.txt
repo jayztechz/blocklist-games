@@ -520,6 +520,7 @@ contact.zverovich.net
 nc.is-a.super-cool.dev
 mathstudy.one
 op1um.pages.dev
+github.io
 opium-games.com
 opium.cybriatech.dev
 opium-games.onrender.com
