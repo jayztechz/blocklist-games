@@ -131,6 +131,7 @@ bidoofery.github.io
 theooofficial.github.io
 gointerstellar.app
 teddblue.github.io
+vercel.app
 artclass.site
 jetyeh.vodka
 slope.faav.top
