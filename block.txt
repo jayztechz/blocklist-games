@@ -7,6 +7,7 @@ playunblocked.lol
 coolbrnd.com
 ralsei.s3.amazonaws.com
 netlify.app
+uf2ik6pe2fdof54cfh766ok5iy0fvggn.lambda-url.us-east-2.on.aws
 d1lm38j3y7voha.cloudfront.net
 nointernetgame.com
 sites.google.com/view/drive-u-7-home
