@@ -97,6 +97,7 @@ math-class.live
 7x.games
 id-4.misem.or.id
 agariojuego.com
+worldmicroscope.com
 study10-7c30e6.gitlab.io
 unblocker.whitespider.gq
 unlock.wmeluna.com
@@ -108,6 +109,7 @@ mathadventure1.github.io
 picklekid31.github.io
 jonahkc.github.io
 it.com
+repl.co
 cattn.github.io
 28klotlucas2.github.io
 emulatoros.github.io
