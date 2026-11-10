@@ -142,6 +142,7 @@ wcpss.gq
 eu.org
 surge.sh
 skool.pages.dev
+scottbaptist.com
 mathhomework.pages.dev
 mathwizard.pages.dev
 mathhomework.netlify.app
