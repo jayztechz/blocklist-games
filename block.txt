@@ -8,6 +8,7 @@ tungtung.best
 mess.eu.org
 frnbk.s3.amazonaws.com
 chrisets.s3.us-east-1.amazonaws.com
+xn--88jzd.best
 chrisets.s3.amazonaws.com
 thoth.wiki
 blooket.lol
