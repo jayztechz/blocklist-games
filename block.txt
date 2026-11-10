@@ -8,6 +8,7 @@ tungtung.best
 mess.eu.org
 frnbk.s3.amazonaws.com
 commonsensehealthcare.org
+learn-duck.firebaseapp.com
 chrisets.s3.us-east-1.amazonaws.com
 play.blooket.lol
 xn--88jzd.best
