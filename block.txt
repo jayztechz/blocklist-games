@@ -11,6 +11,9 @@ coolbrnd.com
 mathkit.org
 edu.freetls.fastly.net
 ralsei.s3.amazonaws.com
+roblox.com
+fortnite.com
+roosterteeth.com
 netlify.app
 uf2ik6pe2fdof54cfh766ok5iy0fvggn.lambda-url.us-east-2.on.aws
 d1lm38j3y7voha.cloudfront.net
@@ -539,6 +542,9 @@ opium-games.com
 opium.cybriatech.dev
 opium-games.onrender.com
 bewildered-tweed-jacket-pike.cyclic.app
+itch.io
+epicgames.com
+steampowered.com
 monkeygg2.github.io
 spew45.github.io
 p0xgames.online
