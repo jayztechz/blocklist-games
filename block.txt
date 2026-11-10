@@ -58,6 +58,7 @@ unblocked-games.github.io
 unblocked-games-for-school.github.io
 unblocked-games-76.github.io
 unblocked-games-6x.github.io
+storage.googleapis.com
 unblocked-games-66.github.io
 unblocked-games-67.github.io
 unblocked-games-77.github.io
