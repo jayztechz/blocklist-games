@@ -8,6 +8,7 @@ tungtung.best
 notesfs.dila.cl
 tegrayuqptdmq7hmpatvz3ngeq0knirk.lambda-url.us-east-2.on.aws
 amazonaws.com
+lambda-url.us-east-2.on.aws
 mizu.hellohealthiness.co.uk
 mess.eu.org
 frnbk.s3.amazonaws.com
