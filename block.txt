@@ -9,6 +9,7 @@ mess.eu.org
 frnbk.s3.amazonaws.com
 chrisets.s3.us-east-1.amazonaws.com
 chrisets.s3.amazonaws.com
+thoth.wiki
 blooket.lol
 rook.plan-ted.com
 ktag24blfmqmhvrvqlbdyl4jfm0vfhul.lambda-url.us-east-2.on.aws
