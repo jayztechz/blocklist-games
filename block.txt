@@ -184,6 +184,13 @@ newportgrizfun.netlify.app
 tamgames.net
 outred-io-site.vercel.app
 outredio-outred.vercel.app
+tiktok.com
+snapchat.com
+netflix.com
+hulu.com
+discord.com
+twitch.tv
+instagram.com
 outredsite-outred.vercel.app
 ubg9.github.io
 ubg9.com
