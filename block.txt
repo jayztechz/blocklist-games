@@ -9,7 +9,8 @@ gdevelop.io
 esm.sh
 b-cdn.net
 cloudfront.net
-cdn.jsdelivr.net
+jsdelivr.net
+fastly.net
 tungtung.best
 notesfs.dila.cl
 tegrayuqptdmq7hmpatvz3ngeq0knirk.lambda-url.us-east-2.on.aws
